@@ -1,1 +1,1 @@
-https://github.com/iammarta/project_site2.git
+https://iammarta.github.io/project_site2/
